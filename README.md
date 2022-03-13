@@ -8,3 +8,6 @@
 2 - [CSS + JS Clock](https://washington-bezerra.github.io/Javascrip30/02%20-%20CSS%20%2B%20JS%20Clock)<br>
 3 - [CSS Variables](https://washington-bezerra.github.io/Javascrip30/03%20-%20CSS%20Variables/)<br>
 4 - [Array Cardio Day 1](https://washington-bezerra.github.io/Javascrip30/04%20-%20Array%20Cardio%20Day%201/)<br>
+5 - [Flex Panel Gallery](https://washington-bezerra.github.io/Javascrip30/05%20-%20Flex%20Panel%20Gallery/)<br>
+
+
