@@ -4,5 +4,5 @@
 <br>By: [JavaScript30](https://javascript30.com/)
 
 ## Projetos
-1 - [Drum Kit](https://washington-bezerra.github.io/Javascrip30/01%20-%20JavaScript%20Drum%20Kit/index.html)
+1 - [Drum Kit](https://washington-bezerra.github.io/Javascrip30/01%20-%20JavaScript%20Drum%20Kit/index.html)<br>
 2 - [CSS + JS Clock](https://washington-bezerra.github.io/Javascrip30/02%20-%20CSS%20%2B%20JS%20Clock)
