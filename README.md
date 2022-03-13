@@ -9,5 +9,4 @@
 3 - [CSS Variables](https://washington-bezerra.github.io/Javascrip30/03%20-%20CSS%20Variables/)<br>
 4 - [Array Cardio Day 1](https://washington-bezerra.github.io/Javascrip30/04%20-%20Array%20Cardio%20Day%201/)<br>
 5 - [Flex Panel Gallery](https://washington-bezerra.github.io/Javascrip30/05%20-%20Flex%20Panel%20Gallery/)<br>
-
-
+6 - [Type Ahead](https://washington-bezerra.github.io/Javascrip30/06%20-%20Type%20Ahead/)<br>
