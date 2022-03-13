@@ -12,4 +12,4 @@
 6 - [Type Ahead](https://washington-bezerra.github.io/Javascrip30/06%20-%20Type%20Ahead/)<br>
 7 - [Array Cardio Day 2](https://washington-bezerra.github.io/Javascrip30/04%20-%20Array%20Cardio%20Day%202/)<br>
 8 - [Fun with HTML5 Canvas](https://washington-bezerra.github.io/Javascrip30/08%20-%20Fun%20with%20HTML5%20Canvas/)<br>
-8 - [Dev Tools Domination](https://washington-bezerra.github.io/Javascrip30/09%20-%20Dev%20Tools%20Domination/)<br>
+9 - [Dev Tools Domination](https://washington-bezerra.github.io/Javascrip30/09%20-%20Dev%20Tools%20Domination/)<br>
