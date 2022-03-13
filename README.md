@@ -6,4 +6,5 @@
 ## Projetos
 1 - [Drum Kit](https://washington-bezerra.github.io/Javascrip30/01%20-%20JavaScript%20Drum%20Kit/index.html)<br>
 2 - [CSS + JS Clock](https://washington-bezerra.github.io/Javascrip30/02%20-%20CSS%20%2B%20JS%20Clock)<br>
-3 - [03 - CSS Variables](https://washington-bezerra.github.io/Javascrip30/03%20-%20CSS%20Variables/)<br>
+3 - [CSS Variables](https://washington-bezerra.github.io/Javascrip30/03%20-%20CSS%20Variables/)<br>
+4 - [Array Cardio Day 1](https://washington-bezerra.github.io/04%20-%20Array%20Cardio%20Day%201/)<br>
